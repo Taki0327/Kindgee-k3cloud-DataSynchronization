@@ -6,9 +6,7 @@
 本示例将金蝶内部 SQLServer 数据同步至外部 Mysql 数据库中，使用前须在Mysql数据库中新建一张setting表，表结构如下：
 
 
-
-![](README.assets\表结构.png)
-
+![表结构](https://user-images.githubusercontent.com/74632780/173175021-602d0929-1ba5-4957-8b0f-80df81df2151.png)
 
 
 
