@@ -24,7 +24,7 @@ namespace Service
         readonly MySqlConnection conn = new MySqlConnection($"server={server};port={port};user={user};password={password}; database={database};");
         #endregion
         //金蝶数据库恢复版本
-        private const string SQLSERVER = "2022-05-16 00:00:00";
+        private const string SQLSERVER = "";
 
         //最大分页天数
         private const int SYNDAYS = 3;
